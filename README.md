@@ -25,6 +25,6 @@
 - **Advanced Java** (Spring Framework)
 
 ## 📫 **Let’s Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/zouhair-ijaad/](https://www.linkedin.com/in/zouhair-ijaad/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]Zouhair-Ijaad([https://linkedin.com/in/zouhair-ijaad/](https://www.linkedin.com/in/zouhair-ijaad/))
 
 *Open to entry-level roles in Germany (willing to relocate)!* 🇩🇪  
