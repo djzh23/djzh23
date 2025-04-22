@@ -14,9 +14,9 @@
 ## 🏆 **Projekthighlights**
 ### 1. Studienprojekte (Java/PHP/C#/Python/JavaScript/Svelte)
    - Entwicklung verschiedener Anwendungen im Studium mit Fokus auf:
-   - **Java**: OOP-Konzepte, Algorithmen
-   - **C#/.NET**: GUI-Entwicklung, API-Integration
-   - **Webtechnologien**: MVC-Architekturen mit Laravel/PHP
+      - **Java**: OOP-Konzepte, Algorithmen
+      - **C#/.NET**: GUI-Entwicklung, API-Integration
+      - **Webtechnologien**: MVC-Architekturen mit Laravel/PHP
 
 ### 2. Bachelorarbeit: Prozessautomatisierungssystem
    - **Fullstack-Lösung** mit Laravel-Backend und .NET MAUI Frontend
