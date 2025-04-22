@@ -1,30 +1,37 @@
-# 👋 Hi, My name is Zouhair Ijaad | Aspiring Software Developer (.NET/C# & Java)
+# 👋 Hallo, ich bin Zouhair | Web-Softwareentwickler (.NET/C# & Java)
 
-🎓 Recent **B.Sc. in Applied Computer Science** | Passionate about clean code, agile development, and solving real-world problems with tech.  
-🚀 **Focus**: Backend development, cloud-ready solutions, and cross-platform apps.
+🎓 Kürzlich abgeschlossener **B.Sc. Angewandte Informatik** | Leidenschaft für Clean Code, agile Entwicklung und praxisnahe Lösungen.  
+🚀 **Schwerpunkte**: Web-Softwaretechnologies und plattformübergreifende Software.
 
-## 🔧 **Tech Stack & Skills**
-### **Languages & Frameworks**
+## 🔧 **Technologien & Fähigkeiten**
+### **Programmiersprachen & Frameworks**
 `C#` `.NET Core/MAUI` `Java` `Python` `PHP` `JavaScript`  
-`Laravel` `Blazor` `Spring Boot` *(learning)* `Docker` *(basics)*
+`Laravel` `Blazor` `Spring Boot` *(im Lernprozess)* `Docker` *(Grundlagen)*
 
-### **Tools & Practices**
-`Git` `REST APIs` `SOLID` `Design Patterns` `MySQL` `Agile (Scrum/Kanban)` `Clean Code`
+### **Tools & Methoden**
+`Git` `REST APIs` `SOLID-Prinzipien` `Design Patterns` `MySQL` `Agile Entwicklung (Scrum/Kanban)` `Clean Code`
 
-## 🏆 **Highlight Projects**
-### 1. [Labore und Projekte aus dem Studium (JAVA / PHP / C# / Python / Javascript)]
+## 🏆 **Projekthighlights**
+### 1. [Studienprojekte (Java/PHP/C#/Python/JavaScript/Svelte)]
+   - Entwicklung verschiedener Anwendungen im Studium mit Fokus auf:
+   - **Java**: OOP-Konzepte, Algorithmen
+   - **C#/.NET**: GUI-Entwicklung, API-Integration
+   - **Webtechnologien**: MVC-Architekturen mit Laravel/PHP
 
-### 2. [Bachelor Thesis: Process Automation System]
-   - **Laravel backend + .NET MAUI frontend** for association management.
-   - Implemented: MVC architecture, ORM, automated workflows.
+### 2. [Bachelorarbeit: Prozessautomatisierungssystem]
+   - **Fullstack-Lösung** mit Laravel-Backend und .NET MAUI Frontend
+   - Implementierte Features:
+     - Automatisierte Workflows für Vereinsmanagement
+     - Datenbankanbindung via ORM
+     - Plattformübergreifende Nutzeroberfläche
+
+## 🌱 **Aktuelle Lernziele**
+- **Fortgeschrittene PHP/Java-Entwicklung** (symfony/PHP - Spring Framework)
+- **Softwarearchitektur** (Domain-Driven Design, Microservices)
+- **Microsoft Azure Cloud** (AZ-900 Zertifizierung)
 
 
-## 🌱 **Currently Learning**
-- **Azure Cloud Services** (AZ-900 prep)
-- **Software Architecture** (DDD, Microservices)
-- **Advanced Java** (Spring Framework)
+## 📫 **Kontakt & Netzwerken**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zouhair-ijaad/)
 
-## 📫 **Let’s Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]Zouhair-Ijaad([https://linkedin.com/in/zouhair-ijaad/](https://www.linkedin.com/in/zouhair-ijaad/))
-
-*Open to entry-level roles in Germany (willing to relocate)!* 🇩🇪  
+*Offen für Einstiegspositionen in Deutschland (Umzugsbereitschaft gegeben!)* 🇩🇪
