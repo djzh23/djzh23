@@ -12,13 +12,13 @@
 `Git` `REST APIs` `SOLID-Prinzipien` `Design Patterns` `MySQL` `Agile Entwicklung (Scrum/Kanban)` `Clean Code`
 
 ## 🏆 **Projekthighlights**
-### 1. [Studienprojekte (Java/PHP/C#/Python/JavaScript/Svelte)]
+### 1. Studienprojekte (Java/PHP/C#/Python/JavaScript/Svelte)
    - Entwicklung verschiedener Anwendungen im Studium mit Fokus auf:
    - **Java**: OOP-Konzepte, Algorithmen
    - **C#/.NET**: GUI-Entwicklung, API-Integration
    - **Webtechnologien**: MVC-Architekturen mit Laravel/PHP
 
-### 2. [Bachelorarbeit: Prozessautomatisierungssystem]
+### 2. Bachelorarbeit: Prozessautomatisierungssystem
    - **Fullstack-Lösung** mit Laravel-Backend und .NET MAUI Frontend
    - Implementierte Features:
      - Automatisierte Workflows für Vereinsmanagement
