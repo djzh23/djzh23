@@ -42,5 +42,5 @@
 
 ## 📫 **Offen für neue berufliche Herausforderungen**
 Ich suche aktuell nach einer Position als (Junior) Backend- oder Fullstack-Entwickler, in der ich mein Wissen weiter vertiefen, Verantwortung übernehmen und an echten Lösungen mitwirken kann.
-📫 Let’s connect! – Ich freue mich über jede Kontaktaufnahme oder Projektidee. [![Email](zouh.ijd@gmail.com)](zouh.ijd@gmail.com)
+📫 Let’s connect! – Ich freue mich über jede Kontaktaufnahme oder Projektidee. 📧 [zouh.ijd@gmail.com](mailto:zouh.ijd@gmail.com)
 
