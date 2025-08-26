@@ -8,7 +8,7 @@
 - .NET C# (ASP.NET Core API, Blazor, MAUI)
 - PHP (Laravel, Symfony)
 - Java (Spring Boot – in Lernphase)
-- JavaScript, Svele, Python (Grundlagen)
+- JavaScript, Svelte, Python (Grundlagen)
 
 
 ### 🧰 Tools & Konzepte
