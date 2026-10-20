@@ -7,6 +7,8 @@
 
 ## Über mich
 
+
+
 Informatiker und Bastler aus Überzeugung. Ich baue gern Dinge, die am Ende wirklich online laufen: Datenbank, Backend, Oberfläche, Deployment. Ein grünes Häkchen in der Pipeline macht mich unverhältnismäßig glücklich.
 
 ## Mein Werkzeugkasten
