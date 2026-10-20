@@ -25,7 +25,7 @@ Wenn etwas kaputtgeht, ist das meistens der Moment, in dem ich am meisten lerne.
 
 Außerdem schon gearbeitet mit Laravel, Symfony, Blazor, .NET MAUI, Svelte, Spring Boot, MySQL, SQL Server, Redis, Supabase und Azure.
 
-## 
+## Frag mich nach
 
 - warum ein rotes Testergebnis ein guter Freund ist
 - warum ein Bug, der nur manchmal auftritt, der schlimmste ist
