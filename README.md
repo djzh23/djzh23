@@ -43,7 +43,7 @@ Sprachen: Deutsch · Français · English
 Der kürzeste Weg zu mir ist [LinkedIn](https://www.linkedin.com/in/zouhair-ijaad/).
 
 <p align="center">
-  <img src="ready.gif" width="240" alt="Ein grüner Schalter zwischen „Ready“ und „Not Ready“">
+  <img src="Vintage%20Help%20GIF.gif" width="240" alt="Ein grüner Schalter zwischen „Ready“ und „Not Ready“">
 </p>
 
 <p align="center">
