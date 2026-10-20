@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-## Über mich
+## 
 
 
 
@@ -13,7 +13,7 @@ Informatiker und Bastler aus Überzeugung. Ich baue gern Dinge, die am Ende wirk
 
 Wenn etwas kaputtgeht, ist das meistens der Moment, in dem ich am meisten lerne. Ein grüner Testlauf ist mein Feierabendgefühl.
 
-## Mein Werkzeugkasten
+## 
 
 | Bereich | Womit ich arbeite |
 |---|---|
@@ -23,9 +23,9 @@ Wenn etwas kaputtgeht, ist das meistens der Moment, in dem ich am meisten lerne.
 | **Tests und DevOps** | ![Unit- und Integrationstests](https://img.shields.io/badge/Unit--%20und%20Integrationstests-3b4252?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3b4252?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-3b4252?style=flat-square&logo=githubactions&logoColor=white) |
 | **Cloud** | ![Render](https://img.shields.io/badge/Render-3b4252?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-3b4252?style=flat-square&logo=vercel&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-3b4252?style=flat-square&logo=neon&logoColor=white) |
 
-Außerdem schon gearbeitet mit Laravel, Spring Boot, Symfony, Blazor, .NET MAUI, Svelte, MySQL, SQL Server, Redis, Supabase und Azure.
+Außerdem schon gearbeitet mit Laravel, Symfony, Blazor, .NET MAUI, Svelte, Spring Boot, MySQL, SQL Server, Redis, Supabase und Azure.
 
-## Frag mich nach
+## 
 
 - warum ein rotes Testergebnis ein guter Freund ist
 - warum ein Bug, der nur manchmal auftritt, der schlimmste ist
