@@ -11,6 +11,8 @@
 
 Informatiker und Bastler aus Überzeugung. Ich baue gern Dinge, die am Ende wirklich online laufen: Datenbank, Backend, Oberfläche, Deployment. Ein grünes Häkchen in der Pipeline macht mich unverhältnismäßig glücklich.
 
+Wenn etwas kaputtgeht, ist das meistens der Moment, in dem ich am meisten lerne. Ein grüner Testlauf ist mein Feierabendgefühl.
+
 ## Mein Werkzeugkasten
 
 | Bereich | Womit ich arbeite |
