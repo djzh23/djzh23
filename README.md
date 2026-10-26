@@ -25,13 +25,6 @@ Wenn etwas kaputtgeht, ist das meistens der Moment, in dem ich am meisten lerne.
 
 Außerdem schon gearbeitet mit Laravel, Symfony, Blazor, .NET MAUI, Svelte, Spring Boot, MySQL, SQL Server, Redis, Supabase und Azure.
 
-## Frag mich nach
-
-- warum ein rotes Testergebnis ein guter Freund ist
-- warum ein Bug, der nur manchmal auftritt, der schlimmste ist
-- wie viele Tabs zu viele Tabs sind
-- warum Real Madrid das bessere Team ist
-
 ## Abseits vom Code
 
 ![Fútbol, siempre](https://img.shields.io/badge/F%C3%BAtbol%2C%20siempre-3b4252?style=flat-square)
